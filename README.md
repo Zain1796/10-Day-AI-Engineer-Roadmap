@@ -136,7 +136,3 @@ Contributions, suggestions, and improvements are welcome! Feel free to open an i
 ## Contact
 
 If you have any questions or feedback, please open an issue or contact me at zainulabideen1796@gmail.com.
-
----
-
-Feel free to modify this README to better suit your personal style or project details. Happy learning and best of luck on your journey to becoming an AI Engineer!
