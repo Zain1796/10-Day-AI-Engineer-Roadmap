@@ -1,0 +1,22 @@
+1. Text Processing
+
+Simple: Text processing helps computers read, clean, and analyze written language.
+Technical: It involves tokenization, stemming, lemmatization, and vectorization to convert raw text into structured data for NLP tasks.
+Real-world Example: Auto-correct in smartphones.
+Technical Example: TF-IDF vectorization for keyword extraction in search engines.
+
+
+2. Sentiment Analysis
+
+Simple: Sentiment analysis detects emotions in text, like positive, negative, or neutral opinions.
+Technical: It applies NLP and ML techniques (e.g., BERT, LSTMs) to classify sentiment by analyzing word embeddings and context.
+Real-world Example: Analyzing customer reviews for product feedback.
+Technical Example: A fine-tuned BERT model classifying tweets as happy, sad, or angry.
+
+
+3. Language Models
+
+Simple: Language models help AI understand and generate human-like text.
+Technical: They predict word sequences using probabilistic methods (n-grams) or deep learning architectures (transformers).
+Real-world Example: ChatGPT generating text responses.
+Technical Example: GPT-4 completing an incomplete sentence based on context.
