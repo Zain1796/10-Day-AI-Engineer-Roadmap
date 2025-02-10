@@ -1,0 +1,22 @@
+1.Neural Networks (NNs)
+
+Simple: A neural network is a system of artificial neurons that mimics the human brain to recognize patterns.
+Technical: An NN is a computational model consisting of layers of interconnected nodes (neurons) that process input data using weighted connections and activation functions.
+Real-world Example: AI recognizing handwritten digits in postal codes.
+Technical Example: A feedforward neural network (FNN) predicting house prices based on historical data.
+
+
+2. Convolutional Neural Networks (CNNs)
+
+Simple: CNNs help computers understand images by detecting patterns like edges, shapes, and textures.
+Technical: CNNs use convolutional layers, pooling layers, and fully connected layers to extract spatial features and recognize objects in images.
+Real-world Example: Facial recognition in smartphones.
+Technical Example: A CNN-based model (ResNet) classifying different types of animals in images.
+
+
+3. Recurrent Neural Networks (RNNs)
+
+Simple: RNNs process sequences of data, like predicting the next word in a sentence.
+Technical: RNNs have cyclic connections that allow them to maintain memory of past inputs, making them suitable for sequential data processing.
+Real-world Example: Predictive text in mobile keyboards.
+Technical Example: A Long Short-Term Memory (LSTM) network generating song lyrics based on past lyrics.
