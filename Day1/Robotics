@@ -1,0 +1,22 @@
+1. Real-Time Control
+
+Simple: AI makes quick decisions to control machines instantly.
+Technical: It applies reinforcement learning and sensor-driven feedback loops to dynamically adjust actions in real-time systems.
+Real-world Example: Autonomous drones avoiding obstacles.
+Technical Example: A PID controller stabilizing a robotic arm.
+
+
+2. Planning
+
+Simple: Planning helps AI decide the best actions to reach a goal.
+Technical: AI planning uses algorithms like A* and Monte Carlo Tree Search (MCTS) to find optimal decision sequences.
+Real-world Example: Google Maps finding the shortest route.
+Technical Example: A reinforcement learning agent optimizing warehouse inventory restocking.
+
+
+3. Ethical Considerations
+
+Simple: AI should be fair, safe, and respect privacy.
+Technical: Ethical AI involves bias mitigation, explainability, data privacy (GDPR compliance), and alignment with human values.
+Real-world Example: Preventing biased hiring decisions in AI-based HR tools.
+Technical Example: Differential privacy techniques protecting user data in AI training models.
