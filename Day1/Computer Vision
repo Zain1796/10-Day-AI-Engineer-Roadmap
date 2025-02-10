@@ -1,0 +1,22 @@
+1. Image Processing
+
+Simple: Image processing allows computers to edit, enhance, and analyze images.
+Technical: It involves operations like filtering, edge detection, and feature extraction using OpenCV, deep learning, or classical image processing techniques.
+Real-world Example: Instagram filters enhancing photos.
+Technical Example: Gaussian blur reducing noise in medical imaging.
+
+
+2. Object Detection
+
+Simple: Object detection finds and labels objects in images or videos.
+Technical: It combines CNNs and region-based approaches (like YOLO, Faster R-CNN) to detect and classify multiple objects in real time.
+Real-world Example: Self-driving cars detecting pedestrians.
+Technical Example: YOLOv8 detecting traffic signs in a video stream.
+
+
+3. Image Segmentation
+
+Simple: Segmentation divides an image into different meaningful parts.
+Technical: It categorizes each pixel in an image using deep learning architectures like U-Net and Mask R-CNN.
+Real-world Example: Medical imaging to identify tumors in MRI scans.
+Technical Example: Semantic segmentation classifying different regions of a satellite image.
