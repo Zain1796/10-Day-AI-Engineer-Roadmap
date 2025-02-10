@@ -1,0 +1,22 @@
+1.Supervised Learning
+
+Simple: The computer learns from labeled data, where input-output pairs are given.
+Technical: A type of ML where a model maps inputs to outputs using labeled datasets and minimizes error using loss functions.
+Real-world Example: Email spam detection (emails labeled as spam or not).
+Technical Example: A support vector machine (SVM) classifying tumor cells as benign or malignant based on past labeled data.
+
+
+2. Unsupervised Learning
+
+Simple: The computer finds patterns in data without labels.
+Technical: A learning paradigm where models analyze and cluster unlabeled data using techniques like dimensionality reduction and density estimation.
+Real-world Example: Customer segmentation in marketing (grouping similar customers without predefined labels).
+Technical Example: K-means clustering grouping different types of news articles based on word frequency.
+
+
+3. Reinforcement Learning (RL)
+
+Simple: The computer learns by trial and error, receiving rewards for good actions and penalties for bad ones.
+Technical: An agent interacts with an environment to maximize cumulative rewards by learning optimal policies through exploration and exploitation.
+Real-world Example: AI-powered robots learning to walk.
+Technical Example: Deep Q-Network (DQN) optimizing stock trading strategies based on historical price actions.
